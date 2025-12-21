@@ -12,3 +12,4 @@ https://image.tmdb.org/t/p/w500/fC2HDm5t0kHl7mTm7jxMR31b7by.jpg
 https://raw.githubusercontent.com/code-andrewy/jumpman64beta/refs/heads/main/file_00000000459071f5bf06b6ca7f6fcb7d.png
 https://image.tmdb.org/t/p/w500/cVxVGwHce6xnW8UaVUggaPXbmoE.jpg 
 https://image.tmdb.org/t/p/w500/x7UZVTEr26H5yCSVQoKTeBdvUvg.jpg
+https://image.tmdb.org/t/p/w500/pHyxb2RV5wLlboAwm9ZJ9qTVEDw.jpg
