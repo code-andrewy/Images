@@ -1,5 +1,5 @@
 https://raw.githubusercontent.com/code-andrewy/Images/refs/heads/main/Superman.png
-https://raw.githubusercontent.com/code-andrewy/Images/refs/heads/main/Reacher.png
+https://image.tmdb.org/t/p/w500/31GlRQMiDunO8cl3NxTz34U64rf.jpg
 https://image.tmdb.org/t/p/w500/c09XdTLpLku2tqHt158NZBgC4hi.jpg
 https://image.tmdb.org/t/p/w500/gDVgC9jd917NdAcqBdRRDUYi4Tq.jpg
 https://image.tmdb.org/t/p/w500/c15BtJxCXMrISLVmysdsnZUPQft.jpg
